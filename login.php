@@ -31,7 +31,7 @@ if (isset($_SESSION["username"])) {
             <div class="container">
                 <div class="signin-content">
                     <div class="signin-image">
-                        <figure><img src="images/signin-image.jpg" alt="sing in image"></figure>
+                        <figure><img src="images/logo.jpg" alt="sing in image"></figure>
                         <a href="register.php" class="signin-image-link">Create an account</a>
                     </div>
 
