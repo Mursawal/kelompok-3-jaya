@@ -12,6 +12,7 @@ class User
         $this->password = $password;
         $this->fullname = $fullname;
     }
+    // constructor diatas menunjukaan ada tiga properti yang di overide yang dimana construktor ini dipakai oleh tiga class user
 }
 
 class UserManager extends User
